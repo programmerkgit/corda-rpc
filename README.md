@@ -9,10 +9,10 @@ This project is to check corda rpc client.
 
 ## Settings
 
-### Rpc client parameters
+### CordaRPC client parameters
 Check Basic/cordapp-example/build.gradle file and check task `runPartyBServer` and args. 
 
-### Dependency
+### CordaRPC Dependency
 Check these files
 - `Basic/cordapp-example/clients/build.gradle`
 - `Basic/cordapp-example/build.gradle`
